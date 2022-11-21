@@ -1,0 +1,44 @@
+.tb1{width: 100%;border:2px solid grey;}
+th{background-color:lightskyblue;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+th,td{text-align:center;padding:20px;border:1px solid gold;}
+tr:hover{background-color: lightgoldenrodyellow;cursor: pointer;}
+.hdd{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;text-decoration:underline;}
+.immm{height:240px;width:450px;margin-left: 500px;margin-top:70px;}
+.div22{margin-top: 360px;}
+.li1{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-stretch: expanded;}
+.tb2{width:100%;}
+.thh{background-color: blueviolet;}
+.imm3{height:300px;width:500px; margin-left:500px;margin-top:60px;}
+.divv{margin-top:200px;margin-left:20px;}
+.im1{height: 360px;padding-top:25px;padding-left: 25px;float:left;border-radius:10px}
+.hd2{padding-top:140px;margin-left: 500px;font-weight: bolder;}
+.hd3{font-size: 38px;}
+.ppp{font-size:20px;}
+.h1{text-align: center;}
+.h2{margin-left:20px;}
+.im4{margin-left: 500px;margin-top:100px;border-radius:10px;border-radius: 10px;}
+.hd5{padding-top:30px;padding-left:30px;font-size:35px;font-weight: bolder;text-decoration-line:underline;}
+.p5{padding-left: 30px;padding-top:30px;font-size:20px;}
+.im2{padding-left: 30px; cursor: pointer;width:400px;height:300px;border-radius:10px;}
+.pp{padding-left: 30px;padding-top:7px}
+.imk{padding-left: 30px; cursor: pointer;width:400px;height:300px;border-radius:10px;float:left;padding-top: 10px;}
+.imp{float: right;height:400px;width: 300px;margin-right:40px;}
+.div34{margin-top:400px;margin-left:10px;}
+.sp1{color:coral;}
+.div4{padding-top: 30px;padding-left:20px;}
+.hd6{font-size:30px;font-weight:bolder;text-decoration-line:underline;}
+.hd7{font-weight: normal;}
+.hd8{font-size:38px;}
+.ulll{margin-top: 20px;}
+.liii{margin-left:20px;margin-top:20px;}
+.iml{float:right;height:300px;width:400px;margin-right:100px;border-radius:10px;}
+.formm{margin-top:80px;margin-left:500px;border:2px solid grey;width:400px; border-radius: 20px;background-color:plum;}
+.lb1{font-size:30px;margin-left: 20px;margin-top: 30px;padding-top:20px;}
+.in1{width:350px;height: 30px; margin-left: 20px;}
+.txta{margin-left: 20px;}
+.btn{margin-left:160px;height:45px;width:70px;border-radius:10px;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: 20px;
+background-color:gold;cursor: pointer;}
+.hd9{padding-left:250px;padding-top:100px;font-weight: bolder;text-decoration-line: underline;font-size:40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+
+
